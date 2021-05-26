@@ -1,0 +1,114 @@
+Usability web application																					
+1. Verify that a registered user can add  the application from the Shopify aap store																					
+2. Verify that the content of the web pages is written correctly and without errors.																					
+3. Verify that the buttons on the web application pages have a standard look and size. Check how the buttons work with a double click																					
+4. Verify that the data in the drop-down lists is not cropped due to field size.																					
+5. Verify that the cursor has changed from the default state to pointer when you hover over the active field.																					
+6. Verify that you can navigate through web application page elements using the TAB key.																					
+7. Verify that the Tab key works sequentially.																					
+8.Verify that all non-active text fields should be highlighted as active when the cursor is over them.																					
+9.Check that the scroll bar appears if necessary.																					
+10.Verify that when scaling manually, the web application adapts to the size of the browser window.																					
+11.Verify that when the user selects a different language, the web page elements will be displayed correctly.																					
+																					
+Module: Bundles button																					
+12. Verify that the Bundles button becomes active when user point the cursor over it.																					
+13.Verify that when user clicks on the Bundles button, he stays on the page.																					
+																					
+Module: Setting button																					
+14. Verify that the user, when clicking the Setting button, will be able to select from the drop-down list : Setting, Design, Update theme, Payment info and go to the corresponding page of the web application																					
+																					
+Module: Setting in the drop-down list Setting button																					
+15. Verify that the user can customize Bundles Widget position, Cart Subtotal and Quick view settings																					
+16. Verify that the user can make settings for the package block displayed on the product page																					
+17. Verify that the user can make settings for orders Settings  containing bundles																					
+18. Verify that the user can use multiple currencies																					
+19.Verify default widget position																					
+20.Verify that the user can save the settings																					
+																					
+Module: Design in the drop-down list Setting button																					
+21. Verify that the user can make settings in Bundle product settings, Button settings, Button hover settings, Signs settings.																					
+22. Verify if the user can save the default settings																					
+23. Verify whether the user can change the settings not by moving the slider but by typing values from the keyboard																					
+24. Verify if changes are displayed in the Bundle preview drop-down box																					
+25. Verify that the user can save the custom settings																					
+																					
+Module: Update theme in the drop-down list Setting button																					
+26. Verify that the user can update the topic of his web store																					
+																					
+Module: Payment info in the drop-down list Setting button																					
+27. Verify if the user can extend the life of the application																					
+																					
+Module: FAQ button																					
+28.Verify that the user, when clicking the FAQ button user can go to the corresponding page of the web application																					
+																					
+Module: Our Others Apps																					
+29. Verify that the user, when clicking the Our Others Apps button will be able to select from the drop-down list : Upsell For Products, Buy X Get Y, Products A/B Test-You Sales Booster, Back in Stock alerts, Popup Apsell on Exit & Visit and go to the corresponding page of the web application																					
+																					
+Module: Chat																					
+30. Check that the chat icon is active																					
+31.  Verify that the chat is minimized when user click on the arrow icon																					
+																					
+Sub-module: Find your answer now field																					
+32. Verify that the Find your answer field  processes the request																					
+33.  Input different symbols, spaces																					
+34. Check how the entered text is processed (first word, the rest is discarded / all the words.)																					
+35.  Check copy/paste																					
+36. Check if the answer corresponds to the request																					
+																					
+Sub-module: Send us a message																					
+37. Check if user can send messages, GIF, smile, attach files																					
+38. Check which formats user can attach for sending: png, jpeg, pdf, doc, mp3 and others																					
+39. Check the maximum and minimum size of attachments to be sent																					
+40. Check if user can create conversations with several people																					
+41. Check if user can delete a sent file																					
+																					
+Module: Add product																					
+42.Verify that user can add the product, give it a title																					
+																					
+Sub-module:  Description																					
+43. Check text formatting																					
+44. Check the bold text selection																					
+45. Check Italic style																					
+46. Check the text underlining																					
+47.  Check the display of text as: bulleted list, numbered list, 																					
+48. Check the indents for text																					
+49. Check the possibility of placing the text by tsetra, from the left edge, from the right edge																					
+50. Check if user can change the color of the text you enter, create tables, add links, videos, photos																					
+																					
+Sub-module: Media																					
+51. Verify that the user can add and delete photos																					
+52. Verify that user can add files in .jpg, .gif, .png, .mp4, .mov, .glb formats																					
+53. Check adding media from URL and from Youtube																					
+																					
+Module: Create Bundle																					
+54.  Check that the user can assign Active, Stopped, All exept arhived , Arhived statuses to the created packages																					
+																					
+Sub-module: Bundle info																					
+55. Verify that mandatory fields are marked with an asterisk																					
+56. Check that the required fields are highlighted after the user clicks the Save bundle button without filling in the fields																					
+57.  Check that each field has hints																					
+58. Check the operation of radio buttons in Discount Type section																					
+59. Check the minimum, average, maximum +1 number of letters and symbols in the Name field (e.x. 0, 50, 100, 101)																					
+60. Check the minimum, average, maximum +1 number of letters and symbols in the Bundle Description (e.x. 0, 120, 255, 256)																					
+																					
+Sub-module: Bundle products																					
+61. Verify that the web application opens using the HTTPS protocol																					
+62. Check how the product search is handled in the Filter by Title input field (first word, the rest is discarded / all the words).																					
+63. Check that the goods which are in Active status can be added to the package																					
+64. Verify that user can set the quantity for each product																					
+65.  Check if user can add the same product to several packages																					
+66. Check if the user can set a discounted price for each product in the package																					
+67.  Verify that the quantity of goods in your cart does not exceed the quantity in inventory																					
+68. Check the minimum discount value in percent, minimum -1, average, maximum and maximum +1																					
+69. Check the incorrect discount value for the package, for example 102%																					
+70.  Check the minimum fixed discount amount, average of the goods package cost, the discount amount equal to the goods package cost, the fixed discount amount is higher than the goods package cost																					
+71. Verify that the generated bundle products are displayed in the directory																					
+72. Check that more than one bundle product can be formed to one product																					
+73. Check that the amount for bundle product is calculated according to the discount																					
+74. Verify that bundle products can be added to  cart																					
+75. Verify that when delete product from the store, the product is deleted  from the boundle products																					
+76. Check that when  delete product , the price of the boundle products will change according to the discount set																					
+77.  Verify that when bundle products are deactivated, they are no longer visible in the directory																					
+78. Verify that the user can make changes to bundle info and save them																					
+79. Verify that all bundle products created are saved when user close  browser																					
